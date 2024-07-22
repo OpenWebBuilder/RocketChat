@@ -1,2 +1,3 @@
 # RocketChat.app
-https://www.rocket.chat/
+Home: https://www.rocket.chat/
+src: https://github.com/RocketChat
