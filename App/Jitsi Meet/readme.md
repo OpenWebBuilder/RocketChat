@@ -12,4 +12,6 @@ App: https://www.rocket.chat/apps/jitsi-meet
 # Home:
 https://jitsi.org/jitsi-meet/
 
+doc: https://jitsi.github.io/handbook/docs/devops-guide/
+
 download(server): https://jitsi.org/downloads/
